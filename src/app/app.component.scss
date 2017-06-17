@@ -1,0 +1,8 @@
+.app {
+  display: flex;
+  flex-wrap: wrap;
+
+  ngx-datatable:first-child {
+    margin-right: 10px;
+  }
+}
